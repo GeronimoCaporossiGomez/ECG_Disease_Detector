@@ -1,1 +1,2 @@
 # ECG_Disease_Detector
+Es un proyecto personal sobre la detección de enfermedades cardiacas binario (esta enfermo o no lo esta), la idea inicial surge para probar en la iniciativa llamada proyecto de mi escuela secundaria Ort sin embargo fue descartada en cambio realizamos Statil, sin embargo lo segui por mi cuenta y tuve un gran aprendizaje sobre como se desarrollan las IAs y la Ciencia de datos.
